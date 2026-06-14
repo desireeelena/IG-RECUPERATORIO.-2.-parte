@@ -3,3 +3,21 @@
     padding: 0;
     box-sizing: border-box;
 }
+/* cuerpo */
+body{
+    background-image: url("../IMG/fondo.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: 'Arvo', serif;
+    color: black;
+    padding: 2rem;
+}
+/* contenedor principal */
+.contenedor{
+    width: 80%;
+    max-width: 1200px;
+    margin: auto;
+    background-color: rgb(60, 1, 155);
+    padding: 2rem;
+}
+
