@@ -17,7 +17,19 @@ body{
     width: 80%;
     max-width: 1200px;
     margin: auto;
-    background-color: rgb(60, 1, 155);
+    background-color: rgb(245, 225, 239);
+    padding: 2rem;
+}
+/* encabezado */
+.encabezado{
+    background-color: black;
+    color: white;
+    text-align: center;
     padding: 2rem;
 }
 
+/* titulo */
+.titulo{
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
